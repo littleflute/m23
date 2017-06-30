@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 I Want You To Want Me [Live].mp3";		
+f[2]	= "04 (Don't Fear) The Reaper.mp3";		
+f[3]	= "05 More Than a Feeling.mp3";		
+f[4]	= "06 Don't Bring Me Down.mp3";		
+f[5]	= "07 Carry on Wayward Sun.mp3";		
+f[6]	= "09 Breaking the Law.mp3";		
+f[7]	= "10 Ballroom Blitz.mp3";		
+f[8]	= "Barracuda.mp3";		
+f[9]	= "Lights.mp3";		
+f[10]	= "Miracles.mp3";		
