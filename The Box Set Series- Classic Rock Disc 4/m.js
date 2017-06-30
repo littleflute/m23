@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Roll with the Changes.mp3";		
+f[2]	= "03 What I Like About You.mp3";		
+f[3]	= "04 Eye of the Tiger.mp3";		
+f[4]	= "05 The Final Countdown.mp3";		
+f[5]	= "06 Cum on Feel the Noize.mp3";		
+f[6]	= "07 Cherry Pie.mp3";		
+f[7]	= "08 Balls to the Wall.mp3";		
+f[8]	= "09 When I See You Smile.mp3";		
+f[9]	= "10 Working for the Weekend.mp3";		
+f[10]	= "Africa.mp3";		
