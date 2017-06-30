@@ -1,4 +1,4 @@
-[v0.0.4](https://github.com/littleflute/m23/edit/master/README.md)
+[v0.0.5](https://github.com/littleflute/m23/edit/master/README.md)
 
 [The Box Set Series- Classic Rock Disc 1](The Box Set Series- Classic Rock Disc 1)
 
@@ -8,4 +8,6 @@
 
 [The Box Set Series- Classic Rock Disc 4](The Box Set Series- Classic Rock Disc 4)
 
-[The butterfly lovers violin concerto](The butterfly lovers violin concerto)
+[The Smiths/The Smiths](The Smiths/The Smiths)
+
+[The butterfly lovers violin concerto](The butterfly lovers violin concerto/cd)
