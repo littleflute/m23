@@ -1,4 +1,4 @@
-[v0.0.7](https://github.com/littleflute/m23/edit/master/README.md)
+[v0.0.8](https://github.com/littleflute/m23/edit/master/README.md)
 
 [The Box Set Series- Classic Rock Disc 1](The Box Set Series- Classic Rock Disc 1)
 
@@ -14,4 +14,6 @@
 
 [Times Ain't Like They Used to Be, Vol. 2](Times Ain't Like They Used to Be, Vol. 2)
 
-[Yoga lounge](Yoga lounge)
+[Yoga lounge](Yoga lounge/cd)
+
+[You Me at Six/Take Off Your Colours (Bonus Tracks)](You Me at Six/Take Off Your Colours [Bonus Tracks])
