@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 So You Want to Be a Rock 'N' Roll Star.mp3";		
+f[2]	= "02 Somebody to Love.mp3";		
+f[3]	= "03 Get Together.mp3";		
+f[4]	= "04 Groovin' is Easy.mp3";		
+f[5]	= "05 I Got a Line on You.mp3";		
+f[6]	= "06 Keep Your Lamps Trimmed and Burning.mp3";		
+f[7]	= "07 Mississippi Queen.mp3";		
+f[8]	= "08 Season of the Witch.mp3";		
+f[9]	= "09 You Better Think Twice.mp3";		
+f[10]	= "10 All the Young Dudes.mp3";		
